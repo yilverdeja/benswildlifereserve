@@ -31,6 +31,7 @@ The following are each of the creators who supplied the resources:
 * [Taryn Elliott](https://www.pexels.com/@taryn-elliott)
 * [Pressmaster](https://www.pexels.com/@pressmaster)
 * [Jess Vide](https://www.pexels.com/@jess-vide)
+* [Jeremy Bishop](https://www.pexels.com/@jeremy-bishop-1260133)
 
 ### FMA
 * [Amaranthus by Chad Crunch](https://freemusicarchive.org/music/Chad_Crouch)
