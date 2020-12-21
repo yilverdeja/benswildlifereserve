@@ -9,4 +9,4 @@ Credits for all images and videos used can be found [here](https://github.com/yi
 After hearing the Meatify idea, we imagined a chicken slaughterhouse that's under the guise of a wildlife reservation. The target audience are Meatify customers since Meatify always suggests to eat Chicken Breasts in the result page.
 
 ## Disclaimer
-No chickens were harmed in the making of this website.
+This is not a real website, it's for a joke. Additionally, no chickens were harmed in the making of this website.
