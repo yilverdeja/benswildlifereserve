@@ -33,6 +33,9 @@ For the website, I used images from [Unsplash]() and [Pexels](https://www.pexels
 * [Imat Bagja Gumilar](https://unsplash.com/@imatbagjagumilar)
 * [Stephen Broome](https://unsplash.com/@stephenbroome)
 * [Boba Jaglicic](https://unsplash.com/@bobajaglicic)
+* [Sharavanan Raja](https://unsplash.com/@sharavananraja)
+* [William Moreland](https://unsplash.com/@relentlessjpg)
+* [Prince Abid](https://unsplash.com/@princeabid708)
 
 ### Pexels (Image of "Ben")
 * [Marlon Schmeiski](https://www.pexels.com/@marlonretratos)
