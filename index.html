@@ -54,7 +54,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12 col-md-7 text-center text-md-left d-flex justify-content-center align-items-center order-2 justify-content-md-start order-md-1" style="font-family: Montserrat, sans-serif;">
-                            <p class="justify-content-center align-items-end" style="color: rgb(255,255,255);margin-bottom: 0px;">Ben's Wildlife Reservation © 2020, Designed by&nbsp;<a href="https://www.yve.life" style="color: rgb(255,255,255);" target="_blank"><strong>yve.</strong></a>&nbsp;</p>
+                            <p class="justify-content-center align-items-end" style="color: rgb(255,255,255);margin-bottom: 0px;">Ben's Wildlife Reservation &copy; <span id="footerYear"></span>, Designed by&nbsp;<a href="https://www.yve.life" style="color: rgb(255,255,255);" target="_blank"><strong>yve.</strong></a>&nbsp;</p>
                         </div>
                         <div class="col-12 col-md-5 d-flex justify-content-center align-items-center order-1 justify-content-md-end justify-content-xl-end">
                             <ul class="nav nav-fill">
@@ -76,6 +76,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/script.min.js"></script>
+    <script>
+        document.getElementById("footerYear").innerText = new Date().getFullYear();
+    </script>
 </body>
 
 </html>
