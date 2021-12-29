@@ -1,4 +1,5 @@
-# [benswildlifereserve](https://benswildlifereserve.xyz)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1cd3ae7e-99dd-4e8f-a7e2-de3ed2260f48/deploy-status)](https://app.netlify.com/sites/friendly-hermann-3b7c13/deploys)
+# Ben's Wildlife Reserve
 A bootstrap website designed in Figma for an add-on to the [Meatify "web-app"](https://github.com/yilverdeja/meatify).
 
 Check out the [Background Video](https://youtu.be/GHAydCyG2O8) on the home page which contains ambient music in the background.
